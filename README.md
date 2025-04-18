@@ -16,7 +16,7 @@ This repository contains code for a machine learning model that predicts which u
 
 This project demonstrates a complete machine learning pipeline to predict email clickthrough rates. Key visualizations show strong predictive performance (97% ROC-AUC) with "opened" status as the dominant feature.
 
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ## Data Description
 

@@ -116,22 +116,22 @@ Provides precision, recall and F1-score for each class.
 ### ROC Curve
 Shows the tradeoff between true positive rate and false positive rate. Our model achieves a 0.97 AUC score, indicating excellent discrimination ability.
 
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Precision-Recall Curve
 Better metric for imbalanced classification problems, showing the tradeoff between precision and recall. Our model achieves a 0.33 Average Precision score.
 
-![Precision-Recall Curve](assets/precision_recall_curve.png)
+![Precision-Recall Curve](precision_recall_curve.png)
 
 ### Feature Importance
 Identifies which features contribute most to prediction accuracy. In our model, "opened" status dominates with overwhelming importance.
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### Correlation Matrix
 Shows relationships between features. The strongest non-identity correlation is between "opened" and "clicked" (0.42).
 
-![Correlation Matrix](assets/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ## Insights
 

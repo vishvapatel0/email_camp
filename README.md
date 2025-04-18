@@ -131,7 +131,7 @@ Identifies which features contribute most to prediction accuracy. In our model, 
 ### Correlation Matrix
 Shows relationships between features. The strongest non-identity correlation is between "opened" and "clicked" (0.42).
 
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](feature_correlation.png)
 
 ## Insights
 
